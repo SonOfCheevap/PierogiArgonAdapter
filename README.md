@@ -17,7 +17,20 @@ Feature List:
 
 -32 Pin header for easy access to each pin
 
-Picture of the latest Version, V1.3:
+# The Family so Far:
 
-![1 3 front](https://user-images.githubusercontent.com/108093325/208253201-e96283af-d423-4a92-bcff-dc2be1a15dfe.png)
-![1 3 back](https://user-images.githubusercontent.com/108093325/208253203-8b64ab0f-c9eb-4693-a665-27f28554974c.png)
+V1(.01)
+
+![pierogiv1](https://user-images.githubusercontent.com/108093325/208265314-cbbc6f3a-cb4c-492f-a8b7-7bb97abf8fac.png)
+
+V1.1
+
+![perigov11](https://user-images.githubusercontent.com/108093325/208265316-daf2060e-e1bb-45ce-93f6-ff9aa5fa6fd6.png)
+
+V1.2
+
+![pierogiv12](https://user-images.githubusercontent.com/108093325/208265319-13fbdc8e-81bd-415a-8c66-ec89901063ff.png)
+
+V1.3
+
+![1 3 front](https://user-images.githubusercontent.com/108093325/208265335-24b8a0cd-1c6c-4066-87b1-202b6f945897.png)
