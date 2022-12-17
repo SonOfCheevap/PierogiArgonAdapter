@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-07-26T22:54:05Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "daughter 2 routed"
+        },
+        "Owner": "sylvester pudelko <pudelkosylvester@gmail.com>",
+        "Size": {
+            "X": 97.206,
+            "Y": 52.695
+        }
+    }
+}
